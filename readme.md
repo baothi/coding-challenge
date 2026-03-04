@@ -112,7 +112,7 @@ cd src/problem-3-messy-react
 ## 📝 Author
 
 **Nguyen Bao**
-Date: November 2024
+Date: February 2026
 
 ---
 
